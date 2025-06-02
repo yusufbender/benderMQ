@@ -33,7 +33,7 @@ app/
 ## ⚙️ Kurulum
 
 ```bash
-git clone https://github.com/bendercode/bendermq.git
+git clone https://github.com/yusufbender/bendermq.git
 cd bendermq
 python3 -m venv venv
 source venv/bin/activate
